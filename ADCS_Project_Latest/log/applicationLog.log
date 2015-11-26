@@ -1,0 +1,1095 @@
+Oct 23, 2013 2:37:58 PM adcs_project.AppLogger LogInfo
+INFO: INFO[User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Oct 23, 2013 2:39:03 PM adcs_project.AppLogger LogInfo
+INFO: INFO[User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 333]
+Oct 23, 2013 2:45:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: teledom, Status: Admin, Action Taken: PRINTED BACK OF ID CARD:null]
+Oct 23, 2013 2:46:39 PM adcs_project.AppLogger LogInfo
+INFO: [User: teledom, Status: Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Oct 23, 2013 3:05:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN A USER with. ID:caint]
+Oct 23, 2013 3:11:40 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 23, 2013 3:12:33 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 911]
+Oct 23, 2013 3:13:35 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: PRINTED BACK OF ID CARD:SP 911]
+Oct 23, 2013 3:14:22 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: ADDED A USER WITH  USERNAME:Afam]
+Oct 24, 2013 3:55:00 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 24, 2013 4:15:14 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 24, 2013 4:15:32 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 311]
+Oct 24, 2013 4:15:47 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 311]
+Oct 24, 2013 4:16:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 311]
+Oct 24, 2013 4:16:31 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STAFF'S -that is still registering- WITH ID :sp 311]
+Oct 24, 2013 4:18:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 311]
+Oct 24, 2013 4:18:05 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 311]
+Oct 24, 2013 4:19:09 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:SP 311]
+Oct 24, 2013 4:19:30 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:SP 311]
+Oct 24, 2013 4:21:26 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 311]
+Oct 24, 2013 4:22:47 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 311]
+Oct 24, 2013 4:28:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 311]
+Oct 24, 2013 4:31:15 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 24, 2013 4:31:30 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 444]
+Oct 24, 2013 4:32:12 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 444]
+Oct 24, 2013 4:32:24 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 444]
+Oct 24, 2013 4:32:52 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STAFF'S -that is still registering- WITH ID :sp 444]
+Oct 24, 2013 4:33:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 444]
+Oct 24, 2013 4:33:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 444]
+Oct 24, 2013 4:33:22 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:SP 444]
+Oct 24, 2013 4:34:53 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 911]
+Oct 24, 2013 4:36:51 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:SP 444]
+Oct 24, 2013 4:39:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 444]
+Oct 24, 2013 4:39:39 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 444]
+Oct 24, 2013 4:52:10 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 24, 2013 4:52:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 444]
+Oct 24, 2013 4:52:46 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 444]
+Oct 24, 2013 4:52:53 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 444]
+Oct 24, 2013 4:53:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STAFF'S -that is still registering- WITH ID :sp 444]
+Oct 24, 2013 4:53:25 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:sp 444]
+Oct 24, 2013 4:55:39 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE OVERALL REGISTRATION  OF BASIC AND BIOMETRIC INFORMATION  OF STAFF WITH STAFF ID:sp 444]
+Oct 24, 2013 4:57:35 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Oct 24, 2013 4:57:53 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Oct 24, 2013 4:58:38 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Oct 24, 2013 4:59:15 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 24, 2013 4:59:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Oct 24, 2013 4:59:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Oct 24, 2013 4:59:51 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Oct 24, 2013 5:00:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Oct 24, 2013 5:00:28 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Oct 24, 2013 5:00:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION  OF BASIC INFORMATION OF  STUDENT-that is still registering-WITH MATRIC. NO: 2013/1111]
+Oct 24, 2013 5:01:04 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE OVERALL REGISTRATION  OF BASIC AND BIOMETRIC INFORMATION OF STUDENT WITH MATRIC. NO: 2013/1111]
+Oct 24, 2013 5:01:20 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO PRINT THE SMART IDCARD IMMEDIATELY AFTER COMPLETING THE REGISTRATION OF STUDENT WITH MATRIC. NO: 2013/1111]
+Oct 24, 2013 5:32:36 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 1:34:20 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 1:34:57 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 1:45:41 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:06:28 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:07:07 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:18:26 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:19:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:33:26 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:34:07 PM adcs_project.AppLogger LogInfo
+INFO: [User: teledom, Status: Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:teledom]
+Oct 25, 2013 2:37:12 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:37:20 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 2:37:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: teledom, Status: Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:teledom]
+Oct 25, 2013 2:37:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: teledom, Status: Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 2:38:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:39:00 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:40:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 2:49:27 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:51:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:52:11 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED TO EDIT STUDENT/STAFF'S SMARTCARD  WITH MATRIC NO/ID :2013/1111]
+Oct 25, 2013 2:52:11 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 2:54:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:54:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 2:57:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 2:57:55 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 3:45:19 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 3:50:01 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 3:52:30 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 3:53:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 3:54:20 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 311]
+Oct 25, 2013 3:54:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 3:55:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 3:57:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 3:57:52 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 3:58:18 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 3:58:31 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 311]
+Oct 25, 2013 3:59:59 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:00:07 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 4:00:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:00:31 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:09:24 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:15:12 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: MODIFIED SMARTCARD INFO FOR A STAFF WITH ID no:SP 311]
+Oct 25, 2013 4:15:12 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 4:18:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:18:58 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STUDENT/STAFF'S SMARTCARD  WITH MATRIC NO/ID :sp 31]
+Oct 25, 2013 4:19:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STUDENT/STAFF'S SMARTCARD  WITH MATRIC NO/ID :sp 123]
+Oct 25, 2013 4:19:37 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STUDENT/STAFF'S SMARTCARD  WITH MATRIC NO/ID :edit]
+Oct 25, 2013 4:21:14 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:22:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:22:38 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:30:36 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:30:54 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:31:50 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 311]
+Oct 25, 2013 4:33:55 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 4:47:28 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:47:38 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:47:50 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 4:48:25 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:48:36 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:48:59 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:50:05 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:50:27 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:51:37 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 311]
+Oct 25, 2013 4:55:07 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 4:55:12 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:55:28 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:56:06 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:56:37 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED TO EDIT STUDENT/STAFF'S SMARTCARD  WITH MATRIC NO/ID :CS]
+Oct 25, 2013 4:56:37 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 4:56:41 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 4:57:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 4:57:54 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: Clicked to MODIFY SMARTCARD INFO FOR A STAFF WITH ID no:SP 311]
+Oct 25, 2013 4:57:54 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 4:57:58 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :SP 444]
+Oct 25, 2013 4:58:59 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 5:01:27 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 5:01:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 5:01:54 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 5:02:22 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 5:02:25 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 5:02:40 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 5:03:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STUDENT WITH matri. no:2013/1111]
+Oct 25, 2013 5:05:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED TO EDIT STUDENT/STAFF'S SMARTCARD  WITH MATRIC NO/ID :2013/1416]
+Oct 25, 2013 5:05:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 5:06:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Oct 25, 2013 5:06:50 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Oct 25, 2013 5:07:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: Clicked to MODIFY SMARTCARD INFO FOR A STUDENT WITH MATRIC no:2013/1111]
+Oct 25, 2013 5:07:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:AA]
+Oct 25, 2013 5:07:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: AA, Status: CSO, Action Taken: RED SMARTCARD INFO FOR A STUDENT WITH matri. no:2010/1416]
+Nov 04, 2013 4:25:06 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 4:40:07 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 4:40:21 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 991]
+Nov 04, 2013 4:40:30 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 991]
+Nov 04, 2013 4:47:09 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 4:47:22 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 991]
+Nov 04, 2013 4:47:30 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 991]
+Nov 04, 2013 4:47:44 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 991]
+Nov 04, 2013 4:48:33 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STAFF'S -that is still registering- WITH ID :sp 991]
+Nov 04, 2013 4:58:51 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:05:25 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: UPDATED STAFF'S INFORMATION WITH ID :SP 922]
+Nov 04, 2013 5:05:57 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STAFF'S BASIC INFORMATION WITH ID :sp 922]
+Nov 04, 2013 5:06:04 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STAFF'S BASIC INFORMATION WITH ID :sp 922]
+Nov 04, 2013 5:21:08 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:22:10 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: UPDATED STAFF'S INFORMATION WITH ID :SP 922]
+Nov 04, 2013 5:22:27 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STAFF'S BASIC INFORMATION WITH ID :sp 911]
+Nov 04, 2013 5:23:32 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: UPDATED STAFF'S INFORMATION WITH ID :SP 922]
+Nov 04, 2013 5:25:17 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:25:27 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STAFF'S BASIC INFORMATION WITH ID :sp 911]
+Nov 04, 2013 5:25:37 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STUDENT'S BASIC INFORMATION WITH MATRIC NO :sp 922]
+Nov 04, 2013 5:27:10 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:28:10 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:30:46 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:31:01 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: UPDATED STUDENT'S INFORMATION WITH MATRIC NO :2013/1111]
+Nov 04, 2013 5:32:36 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:37:32 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:38:16 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:47:47 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:51:45 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 5:53:54 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 6:00:11 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 6:02:53 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'PRINT'  STUDENT with matric. No:2013/1111]
+Nov 04, 2013 6:05:59 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 922]
+Nov 04, 2013 6:10:12 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 444]
+Nov 04, 2013 6:14:15 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 6:14:49 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 444]
+Nov 04, 2013 6:28:27 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 6:29:37 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: UPDATED STUDENT'S INFORMATION WITH MATRIC NO :2013/2222]
+Nov 04, 2013 6:30:43 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: UPDATED STUDENT'S INFORMATION WITH MATRIC NO :2014/1111]
+Nov 04, 2013 6:31:03 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO EDIT STUDENT'S BASIC INFORMATION WITH MATRIC NO :2013/1111]
+Nov 04, 2013 6:31:44 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: UPDATED STUDENT'S INFORMATION WITH MATRIC NO :2013/1111]
+Nov 04, 2013 6:35:47 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 001]
+Nov 04, 2013 6:41:07 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 002]
+Nov 04, 2013 6:42:18 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED THE BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 002]
+Nov 04, 2013 6:42:43 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :SP 002]
+Nov 04, 2013 6:48:08 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 6:48:25 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 002]
+Nov 04, 2013 6:49:24 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 002]
+Nov 04, 2013 6:49:39 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 002]
+Nov 04, 2013 6:50:23 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 002]
+Nov 04, 2013 6:50:33 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 002]
+Nov 04, 2013 6:50:52 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 002]
+Nov 04, 2013 6:51:03 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 002]
+Nov 04, 2013 6:52:29 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STAFF'S -that is still registering- WITH ID :sp 002]
+Nov 04, 2013 6:52:47 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:sp 002]
+Nov 04, 2013 6:53:11 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE OVERALL REGISTRATION  OF BASIC AND BIOMETRIC INFORMATION  OF STAFF WITH STAFF ID:sp 002]
+Nov 04, 2013 6:56:01 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO PRINT THE SMART IDCARD IMMEDIATELY AFTER COMPLETING THE REGISTRATION OF STUDENT WITH MATRIC. NO: sp 002]
+Nov 04, 2013 6:56:46 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: PRINTED BACK OF ID CARD:]
+Nov 04, 2013 6:57:22 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 002]
+Nov 04, 2013 6:58:32 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Nov 04, 2013 7:01:48 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 7:04:35 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 7:05:01 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 001]
+Nov 04, 2013 7:05:19 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 001]
+Nov 04, 2013 7:05:25 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 001]
+Nov 04, 2013 7:05:57 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STAFF'S -that is still registering- WITH ID :sp 001]
+Nov 04, 2013 7:06:10 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 001]
+Nov 04, 2013 7:09:22 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 7:09:46 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Nov 04, 2013 7:09:59 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:10:10 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:10:55 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:11:14 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:11:22 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:11:41 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:11:50 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:12:04 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:12:10 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:12:25 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:12:28 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:12:37 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:12:45 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:13:08 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:13:16 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:13:37 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:13:40 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:13:50 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:23:55 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 7:24:10 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Nov 04, 2013 7:24:19 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:24:27 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:24:55 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:25:16 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:25:27 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:26:03 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:26:11 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:26:48 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:27:05 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:27:52 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:27:55 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:28:00 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:28:02 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:30:53 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 7:31:11 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Nov 04, 2013 7:31:35 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:31:44 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:32:05 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:47:36 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 7:47:53 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Nov 04, 2013 7:48:11 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:48:22 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:48:48 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:49:04 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:49:22 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:49:37 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:49:41 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:52:40 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 7:52:55 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/1111]
+Nov 04, 2013 7:53:11 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:53:18 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:53:37 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:53:58 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:54:00 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:54:04 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:54:06 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:54:50 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 7:55:05 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/1111]
+Nov 04, 2013 8:10:09 AM adcs_project.AppLogger LogInfo
+INFO: [User: null, Status: null, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Nov 04, 2013 8:11:03 AM adcs_project.AppLogger LogInfo
+INFO: [User: null, Status: null, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Nov 04, 2013 8:12:38 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 8:22:02 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 04, 2013 8:28:24 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Nov 04, 2013 8:29:03 AM adcs_project.AppLogger LogInfo
+INFO: [User: teledom, Status: Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:teledom]
+Nov 05, 2013 1:56:26 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 1:58:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 2:12:46 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED THE BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:05:37 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:05:56 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 05, 2013 3:06:14 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:08:15 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:08:32 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:10:56 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:11:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:15:50 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:16:04 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 05, 2013 3:18:33 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED THE BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:sp 003]
+Nov 05, 2013 3:21:50 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:26:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:29:24 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:29:39 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:31:26 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED THE BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:34:45 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:34:52 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 05, 2013 3:36:11 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED THE BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:sp 003]
+Nov 05, 2013 3:36:39 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:37:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :SP 003]
+Nov 05, 2013 3:38:01 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:44:00 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:44:08 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 05, 2013 3:44:41 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 05, 2013 3:45:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 05, 2013 3:46:16 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:46:24 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:46:30 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STAFF'S -that is still registering- WITH ID :SP 003]
+Nov 05, 2013 3:47:01 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:47:05 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:47:10 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:47:11 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:47:37 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 05, 2013 3:47:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:47:50 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:48:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 05, 2013 3:57:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 3:59:44 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 4:02:14 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:03:41 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:08:35 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 4:10:08 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:11:04 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:11:40 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:11:50 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:12:33 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 4:12:44 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:13:16 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:13:58 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:14:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:18:07 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 4:18:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:22:38 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 4:22:52 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:23:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:24:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:24:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:27:53 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 4:29:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:33:08 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 05, 2013 4:33:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 05, 2013 4:33:30 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STUDENT'S -that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:33:58 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/5555]
+Nov 05, 2013 4:34:00 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/5555]
+Nov 06, 2013 10:43:32 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 10:43:51 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 06, 2013 10:48:25 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 10:48:40 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 10:48:51 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 11:09:33 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 11:09:49 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 06, 2013 11:09:58 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :SP 003]
+Nov 06, 2013 11:27:09 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 11:28:20 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 11:32:25 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 11:32:37 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 11:50:45 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 11:50:58 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 11:52:42 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 06, 2013 11:52:48 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :SP 003]
+Nov 06, 2013 11:54:36 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 11:55:11 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 11:55:25 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 11:55:31 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 11:58:26 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 11:58:41 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:SP 003]
+Nov 06, 2013 12:00:04 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 12:00:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 12:00:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 12:01:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 12:01:52 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 12:02:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 12:02:22 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF  'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 12:02:50 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 12:02:52 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 12:03:26 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 12:03:35 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 12:03:59 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 12:25:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 12:40:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 12:40:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 12:43:54 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 12:44:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 12:44:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 12:45:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 12:45:59 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 12:46:09 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 1:15:14 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 1:15:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 1:15:53 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 1:19:11 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 1:19:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 1:19:32 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 1:51:58 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 1:52:18 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 1:53:45 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 1:53:55 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 1:56:45 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 1:57:00 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 1:58:55 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 1:59:06 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 2:00:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:00:36 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 2:01:44 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:01:52 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 2:03:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:03:36 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:03:56 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:05:06 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STAFF with ID :sp 003]
+Nov 06, 2013 2:08:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:08:35 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:10:05 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 2:10:39 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 2:11:16 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF  'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 2:11:44 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:11:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:11:51 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:11:57 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:12:01 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:12:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:12:06 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:12:08 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:12:10 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:12:12 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:12:30 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:13:06 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:13:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:13:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:14:14 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:14:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:14:22 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:14:24 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 06, 2013 2:35:56 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:36:05 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:36:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:sp 003]
+Nov 06, 2013 2:37:46 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:37:59 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:38:32 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 2:39:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 2:39:54 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:40:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:40:41 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF  'S -that is still registering- WITH ID :sp 003]
+Nov 06, 2013 2:41:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:sp 003]
+Nov 06, 2013 2:43:11 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:43:16 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:44:09 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:44:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:44:51 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 2:52:14 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:59:17 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 2:59:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 06, 2013 2:59:53 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/5555]
+Nov 06, 2013 3:00:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 06, 2013 3:00:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 06, 2013 3:01:05 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/5555]
+Nov 06, 2013 3:01:49 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 3:02:15 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 06, 2013 3:02:25 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STUDENT'S -that is still registering- WITH MATR. NO:2013/5555]
+Nov 06, 2013 3:02:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/5555]
+Nov 06, 2013 3:02:46 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/5555]
+Nov 06, 2013 3:02:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION  OF BASIC INFORMATION OF  STUDENT-that is still registering-WITH MATRIC. NO: 2013/5555]
+Nov 06, 2013 3:06:37 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 3:06:46 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 06, 2013 3:07:08 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION  OF BASIC INFORMATION OF  STUDENT-that is still registering-WITH MATRIC. NO: 2013/5555]
+Nov 06, 2013 3:07:32 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 06, 2013 3:10:43 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 3:10:51 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/5555]
+Nov 06, 2013 3:11:04 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 06, 2013 3:44:44 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 3:46:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/6666]
+Nov 06, 2013 3:48:00 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/6666]
+Nov 06, 2013 3:48:41 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/6666]
+Nov 06, 2013 3:49:33 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/6666]
+Nov 06, 2013 3:50:04 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/6666]
+Nov 06, 2013 3:50:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STUDENT'S -that is still registering- WITH MATR. NO:2013/6666]
+Nov 06, 2013 3:50:45 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF STUDENT'S -that is still registering- WITH MATR. NO:2013/6666]
+Nov 06, 2013 3:50:58 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF STUDENT-that is still registering- WITH MATR. NO:2013/6666]
+Nov 06, 2013 3:51:01 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: MODIFIED BASIC INFORMATION OF STUDENT'S NEXT OF KIN-that is still registering- WITH MATR. NO:2013/6666]
+Nov 06, 2013 3:51:07 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION  OF BASIC INFORMATION OF  STUDENT-that is still registering-WITH MATRIC. NO: 2013/6666]
+Nov 06, 2013 3:52:26 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STUDENT with matric. No:2013/6666]
+Nov 06, 2013 3:53:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE OVERALL REGISTRATION  OF BASIC AND BIOMETRIC INFORMATION OF STUDENT WITH MATRIC. NO: 2013/6666]
+Nov 06, 2013 3:53:51 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO PRINT THE SMART IDCARD IMMEDIATELY AFTER COMPLETING THE REGISTRATION OF STUDENT WITH MATRIC. NO: 2013/6666]
+Nov 06, 2013 3:55:13 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED TO RESUME CAPTURING OF STUDENT matric. No:2013/6666]
+Nov 06, 2013 3:58:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 3:59:49 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STUDENT WITH matri. no:2013/6666]
+Nov 06, 2013 4:01:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 06, 2013 4:02:09 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STUDENT WITH matri. no:2013/6666]
+Nov 06, 2013 4:02:39 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STAFF WITH ID :sp 002]
+Nov 06, 2013 4:03:15 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 002]
+Nov 07, 2013 11:41:27 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 11:41:50 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:16:09 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:17:27 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:21:51 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:23:23 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:26:33 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:27:51 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:48:27 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:49:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 12:49:47 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: PRINTED BACK OF ID CARD:]
+Nov 07, 2013 12:50:47 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: PRINTED BACK OF ID CARD:]
+Nov 07, 2013 4:25:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 4:28:58 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 4:29:03 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Nov 07, 2013 4:32:42 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 4:42:21 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 07, 2013 4:42:31 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Nov 08, 2013 10:21:23 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 10:21:43 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED ATTEMPT TO PRINT A STUDENT with matric. No:2013/1111]
+Nov 08, 2013 10:21:57 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: FAILED ATTEMPT TO PRINT A STUDENT with matric. No:2013/1111]
+Nov 08, 2013 10:22:14 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'PRINT'  STUDENT with matric. No:2013/5555]
+Nov 08, 2013 10:24:34 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STUDENT WITH matri. no:2013/6666]
+Nov 08, 2013 10:25:24 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'PRINT'  STUDENT with matric. No:2013/6666]
+Nov 08, 2013 10:25:44 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STUDENT WITH matri. no:2013/6666]
+Nov 08, 2013 10:30:06 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 10:30:12 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RED SMARTCARD INFO FOR A STUDENT WITH matri. no:2013/6666]
+Nov 08, 2013 10:37:09 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 10:37:31 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'PRINT'  STUDENT with matric. No:2013/6666]
+Nov 08, 2013 11:09:24 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 11:09:36 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :SP 111]
+Nov 08, 2013 11:48:44 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 11:51:38 AM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 12:03:37 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 12:04:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 003]
+Nov 08, 2013 12:04:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 08, 2013 12:05:58 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED PICTURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 08, 2013 12:06:34 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED SIGNATURE OF STAFF'S -that is still registering- WITH ID :sp 003]
+Nov 08, 2013 12:07:06 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CAPTURED FINGERPRINT OF  'S -that is still registering- WITH ID :sp 003]
+Nov 08, 2013 12:07:28 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY THE BASIC INFORMATION OF A STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 08, 2013 12:07:29 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED TO MODIFY BASIC INFORMATION OF STAFF'S NEXT OF KIN-that is still registering- WITH STAFF ID:SP 003]
+Nov 08, 2013 12:07:46 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: COMPLETED THE REGISTRATION OF THE BASIC INFORMATION OF STAFF-that is still registering- WITH STAFF ID:SP 003]
+Nov 08, 2013 12:08:39 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 003]
+Nov 08, 2013 12:30:57 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 12:31:06 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: RESUMED CAPTURING OF STAFF with ID:sp 003]
+Nov 08, 2013 12:31:35 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICK 'PRINT' A  STAFF with ID :sp 003]
+Nov 08, 2013 3:24:52 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 3:27:00 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: CLICKED 'LOGOUT' FROM THE APPLICATION]
+Nov 08, 2013 3:56:05 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 4:01:48 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]Nov 08, 2013 4:28:39 PM adcs_project.AppLogger main
+INFO: My app log
+Nov 08, 2013 4:28:39 PM adcs_project.AppLogger main
+INFO: Hi How do u do?
+Nov 08, 2013 4:28:57 PM adcs_project.AppLogger main
+INFO: My app log
+Nov 08, 2013 4:28:57 PM adcs_project.AppLogger main
+INFO: Hi How do u do?
+Nov 08, 2013 4:30:35 PM adcs_project.AppLogger main
+INFO: My app log
+Nov 08, 2013 4:30:35 PM adcs_project.AppLogger main
+INFO: Hi How do u do?
+Nov 08, 2013 4:31:35 PM adcs_project.AppLogger main
+INFO: My app log
+Nov 08, 2013 4:31:35 PM adcs_project.AppLogger main
+INFO: Hi How do u do?
+Nov 08, 2013 4:32:02 PM adcs_project.AppLogger LogInfo
+INFO: [User: caint, Status: super Admin, Action Taken: LOGGED IN INTO THE APPLICATION AS A USER with. ID:caint]
+Nov 08, 2013 4:33:38 PM adcs_project.AppLogger main
+INFO: My app log
+Nov 08, 2013 4:33:38 PM adcs_project.AppLogger main
+INFO: Hi How do u do?
